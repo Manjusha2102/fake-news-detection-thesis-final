@@ -1,4 +1,4 @@
-# Trust-Based Explainable Fake News Detection System
+# AN EXPLAINABLE NLP APPROACH FOR TRUST-BASED FAKE NEWS DETECTION USING LINGUISTIC AND EMOTIONAL CUES
 
 Final thesis project comparing four handcrafted feature sets for fake news detection, evaluated across eight machine learning classifiers with SHAP, LIME, and permutation-based explainability.
 
